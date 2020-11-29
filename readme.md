@@ -1,8 +1,6 @@
-# Widgets API
+# Board API
 
-Use the widgets api to create, get, delete and update widgets on your board. You can
-decide to change whether you want to save the widgets in an in-memory data structure (default behaviour)
-or in an in-memory SQL database by setting the property `use-sql-repository` to `true` in `application.properties` file.
+Use the board api to create, get, delete and update widgets on your board. You can decide to change whether you want to save the widgets in an in-memory data structure (default behaviour) or in an in-memory SQL database by setting the property `use-sql-repository` to `true` in `application.properties` file.
 
 Use the following endpoints to manage your widgets:
 
